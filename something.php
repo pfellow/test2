@@ -1,1 +1,3 @@
-<?php echo Find me;
+<?php
+
+echo "Привет, мир!";
